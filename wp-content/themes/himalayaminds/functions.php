@@ -1,0 +1,3 @@
+<?php
+// Theme-specific functions here...
+
