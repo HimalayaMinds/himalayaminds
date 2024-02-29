@@ -2,6 +2,7 @@
 
 Ascend to Excellence with HimalayaMinds.
 
+![Himalaya Minds Logo](https://avatars.githubusercontent.com/u/161611759?s=400&u=765a00b611bf275ff39a878f371c62754fad45c0&v=4)
 
 <!-- Primary Color (Blue):
 
