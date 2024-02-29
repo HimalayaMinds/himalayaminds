@@ -1,6 +1,8 @@
 # Himalaya Minds
 
-Ascend to Excellence with HimalayaMinds.
+Ascend to Excellence with HimalayaMinds .
+
+" हिमालय माइन्ड्सको साथ उत्कृष्टतामा आरोहण। ✨"
 
 ![Himalaya Minds Logo](https://avatars.githubusercontent.com/u/161611759?s=400&u=765a00b611bf275ff39a878f371c62754fad45c0&v=4)
 
