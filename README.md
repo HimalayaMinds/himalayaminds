@@ -1,4 +1,4 @@
-# HimalayaMinds
+# Himalaya Minds
 
 Ascend to Excellence with HimalayaMinds.
 
