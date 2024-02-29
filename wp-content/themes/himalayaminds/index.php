@@ -1,7 +1,11 @@
 <?php get_header(); ?>
 
-<div id="content">
-    // Main content template here..
-</div>
+<main id="main-content">
+    <div class="container main-content">
+        <h1>
+            // Main content template here..
+        </h1>
+    </div>
+</main>
 
 <?php get_footer(); ?>
